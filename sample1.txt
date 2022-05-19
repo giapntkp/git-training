@@ -1,2 +1,3 @@
-Đây là nội dung bất kỳ
-Hãy sửa tuỳ ý vào đây để tạo commit
+Hôm nay là 1 ngày đẹp trời
+tôi học git
+
